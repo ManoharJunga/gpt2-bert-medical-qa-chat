@@ -63,6 +63,8 @@ You can chat with the chatbot through the command-line interface using the follo
 git clone https://github.com/DSDanielPark/medical-qa-bert-chatgpt.git
 cd medical-qa-bert-chatgpt
 pip install -e .
+pip install -r requirements.txt
+
 python main.py
 ```
 ![](https://github.com/DSDanielPark/medical-qa-bert-chatgpt/blob/main/assets/imgs/medichatbot.png)
